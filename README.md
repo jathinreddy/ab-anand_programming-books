@@ -1,2 +1,2 @@
-# py-books
-A collection of Python books. Feel free to contribute
+# books
+A collection of Python and Golang books. Feel free to contribute
